@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_top_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical" >
+        
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        	<freesbell.demo.utils.CircularImage
+                android:id="@+id/head_icon"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:onClick="onClickHeadIcon"
+                android:gravity="center_horizontal|center_vertical"
+                android:src="@drawable/head_icon_boy" />
+
+        	<LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:paddingBottom="1dp"
+	        android:layout_gravity="bottom"
+	        android:orientation="vertical" >
+	            <TextView
+	                android:id="@+id/user_name"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="5dp"
+	                android:text="Jerry hu"
+	                android:textColor="#f0f0f0"
+	                android:textSize="25sp" />
+	            <TextView
+	                android:id="@+id/user_status"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="5dp"
+	                android:text="@string/p2p_status_online"
+	                android:textColor="#f0f0f0"
+	                android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+	        android:id="@+id/vidicon"
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="3dp"
+	        android:background="@color/color_divider" />
+        
+        <!-- list items -->
+        <!-- use listview will cause some unknown bug -->
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/listitem_pressed_selector"
+            android:clickable="true"
+	        android:paddingLeft="10dip"
+	    	android:paddingRight="10dip"
+	    	android:onClick="onUserSetting"
+            >
+
+            <TextView
+		        android:id="@+id/settingName1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="50dip"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:textSize="20sp"
+		        android:text="用户设置"
+		        android:textColor="@color/color_black" 
+		        android:gravity="center_vertical"/>
+		    <ImageView
+		        android:id="@+id/settingImg1"
+		       android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/arrow"
+		        />
+        </RelativeLayout>
+
+        <ImageView
+	        android:id="@+id/vidicon"
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="3dp"
+	        android:background="@color/color_divider" />
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/listitem_pressed_selector"
+            android:clickable="true"
+	        android:paddingLeft="10dip"
+	    	android:paddingRight="10dip"
+	    	android:onClick="onAbout"
+            >
+
+            <TextView
+		        android:id="@+id/settingName2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="50dip"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:textSize="20sp"
+		        android:text="关于"
+		        android:textColor="@color/color_black" 
+		        android:gravity="center_vertical"/>
+		    <ImageView
+		        android:id="@+id/settingImg2"
+		       android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/arrow"
+		        />
+        </RelativeLayout>
+        
+        <!-- <ImageView
+	        android:id="@+id/vidicon"
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="3dp"
+	        android:background="@color/color_divider" />
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:background="@drawable/listitem_pressed_selector"
+	        android:paddingLeft="10dip"
+	    	android:paddingRight="10dip"
+            >
+
+            <TextView
+		        android:id="@+id/settingName3"
+		        android:layout_width="wrap_content"
+		        android:layout_height="50dip"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:textSize="20sp"
+		        android:text="第3个Item"
+		        android:textColor="@color/color_black" 
+		        android:gravity="center_vertical"/>
+		    <ImageView
+		        android:id="@+id/settingImg3"
+		       android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/arrow"
+		        />
+        </RelativeLayout>
+
+        <ImageView
+	        android:id="@+id/vidicon"
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="3dp"
+	        android:background="@color/color_divider" />
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:background="@drawable/listitem_pressed_selector"
+	        android:paddingLeft="10dip"
+	    	android:paddingRight="10dip"
+            >
+
+            <TextView
+		        android:id="@+id/settingName4"
+		        android:layout_width="wrap_content"
+		        android:layout_height="50dip"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:textSize="20sp"
+		        android:text="第4个Item"
+		        android:textColor="@color/color_black" 
+		        android:gravity="center_vertical"/>
+		    <ImageView
+		        android:id="@+id/settingImg4"
+		       android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/arrow"
+		        />
+        </RelativeLayout>
+
+        <ImageView
+	        android:id="@+id/vidicon"
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:layout_marginTop="3dp"
+	        android:background="@color/color_divider" />
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:background="@drawable/listitem_pressed_selector"
+	        android:paddingLeft="10dip"
+	    	android:paddingRight="10dip"
+            >
+
+            <TextView
+		        android:id="@+id/settingName5"
+		        android:layout_width="wrap_content"
+		        android:layout_height="50dip"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:textSize="20sp"
+		        android:text="第5个Item"
+		        android:textColor="@color/color_black" 
+		        android:gravity="center_vertical"/>
+		    <ImageView
+		        android:id="@+id/settingImg5"
+		       android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/arrow"
+		        />
+        </RelativeLayout> -->
+    </LinearLayout>
+        
+    </LinearLayout>
+
+    <Button
+		android:id="@+id/one"
+		android:layout_width="100dp"
+		android:layout_height="43dp"
+		android:layout_alignParentBottom="true"
+		android:layout_marginBottom="100dp"
+		android:gravity="center"
+		
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true"
+		android:background="@drawable/btnselector"
+		android:onClick="exitApp"
+		android:textColor="@color/color_white"
+		android:text="@string/exit" 
+		android:textSize="20sp"
+		/>
+</RelativeLayout>

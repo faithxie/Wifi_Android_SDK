@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_light_back"
+    >
+  <ScrollView 
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:paddingTop="10dp"
+      >
+      <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:paddingTop="5dip" >
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/user"
+                android:textColor="@color/color_black"
+                android:textSize="18sp" 
+                android:gravity="center"/>
+
+            <EditText
+                android:id="@+id/registeruser"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/color_black" 
+                android:paddingRight="5dp"
+                android:capitalize="characters"
+                />
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pwd"
+                android:textColor="@color/color_black"
+                android:textSize="18sp" 
+                android:gravity="center"/>
+
+            <EditText
+                android:id="@+id/registerpwd"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/color_black" 
+                android:paddingRight="5dp"
+                android:capitalize="characters"
+                android:inputType="textPassword"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ensurepwd"
+                android:textColor="@color/color_black"
+                android:textSize="18sp" 
+                android:gravity="left"/>
+
+            <EditText
+                android:id="@+id/registersurepwd"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/color_black" 
+                android:paddingRight="5dp"
+                android:capitalize="characters"
+                android:inputType="textPassword"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/email"
+                android:textColor="@color/color_black"
+                android:textSize="18sp" 
+                android:gravity="center"/>
+
+            <EditText
+                android:id="@+id/registeremail"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/color_black" 
+                android:paddingRight="5dp"
+                android:capitalize="characters"
+                />
+        </TableRow>
+          <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/phone"
+                android:textColor="@color/color_black"
+                android:textSize="18sp" 
+                android:gravity="left"/>
+
+            <EditText
+                android:id="@+id/registerphone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/color_black" 
+                android:paddingRight="5dp"
+                android:capitalize="characters"
+                android:inputType="textPhonetic"/>
+        </TableRow>
+       
+    </TableLayout>
+    
+    
+      
+  </ScrollView>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:gravity="center_vertical">
+           <Button android:id="@+id/submit"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:text="@string/submit"
+               android:layout_marginTop="5dp"
+               android:layout_marginBottom="3dp"
+               android:layout_marginLeft="3dp"
+               android:textColor="@color/color_black"/>
+           <Button android:id="@+id/cancel"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:text="@string/cancel"
+               android:textColor="@color/color_black"
+               android:layout_marginTop="5dp"
+               android:layout_marginBottom="3dp"
+               android:layout_marginRight="3dp"/>
+    </LinearLayout>
+
+</LinearLayout>

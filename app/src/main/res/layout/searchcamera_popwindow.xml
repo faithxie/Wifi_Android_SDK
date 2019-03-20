@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#ff000000"
+    android:orientation="vertical" >
+	<Button
+        android:id="@+id/refresh_camera"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/listitem_pressed_selector"
+        android:textColor="@color/color_white"
+        android:text="刷新" />
+	<ImageView 
+	    android:layout_width="match_parent"
+	    android:layout_height="1dp"
+	    android:background="#ff444444"
+	    />
+    <ListView
+        android:id="@+id/searchcamera_pop_listview"
+        android:background="#ff000000"
+        android:cacheColorHint="#00000000"
+        android:divider="#ff444444"
+        android:dividerHeight="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+    
+
+</LinearLayout>

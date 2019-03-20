@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/bg_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_light_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        style="@style/top_bg_style"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/alerm_cancel"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+
+        <TextView
+            android:id="@+id/tv_camera_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:text="@string/alerm_setting"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+        
+        <Button
+            android:id="@+id/alerm_ok"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btnselector"
+            android:text="@string/done"
+            android:textColor="@color/color_white"
+            android:textSize="@dimen/text_title_size" />
+    </RelativeLayout>
+
+	<LinearLayout
+		android:id="@+id/root_setting_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="10dp"
+	    android:layout_below="@+id/top"
+	    android:background="@drawable/background_light_itemlist"
+	    android:orientation="vertical"
+	    android:padding="10dp" >
+	
+	    <RelativeLayout
+	        android:id="@+id/relativeLayout1"
+	        android:layout_width="match_parent"
+	        android:layout_height="40dp">
+	
+	        <TextView
+	            android:id="@+id/textView1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:text="@string/alerm_detector_layout"
+	            android:textColor="@color/color_black" />
+	
+	        <CheckBox
+	            android:id="@+id/alerm_cbx_move_layout"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:layout_gravity="right" />
+	
+	    </RelativeLayout>
+		<!-- <ImageView
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:src="@color/color_grey" /> -->
+	    <RelativeLayout
+	        android:id="@+id/alerm_moveview"
+	        android:layout_width="match_parent"
+	        android:layout_height="40dp"
+	        android:gravity="center_vertical"
+	        android:visibility="gone">
+
+	        <TextView
+	            android:id="@+id/tv1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:text="@string/alerm_detector_sensitivity"
+	            android:textColor="@color/color_black" />
+	
+	        <LinearLayout
+	            android:id="@+id/alarm_tv_sensitivity_layout"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal" >
+	
+	            
+	           <TextView
+	            android:id="@+id/alerm_tv_sensitivity"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textColor="@color/color_black" />
+
+	            <ImageView
+	                android:id="@+id/alerm_img_sensitive_drop"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:src="@drawable/rightdown_selector" />
+	        </LinearLayout>
+	
+	        
+	    </RelativeLayout>
+	    
+	    <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal" >
+	        <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_vertical"
+		            android:layout_marginLeft="10.0dip"
+		            android:text="@string/alarm_area_channel"
+		            android:textColor="@color/color_black"
+		            android:textSize="18.0sp"/>
+	            <freesbell.demo.client.ComboBox
+			        android:id="@+id/alarm_area_channel"
+			        android:layout_width="0dp"
+			        android:layout_height="40dp"
+			        android:layout_weight="1"
+			        />
+	    	<Button
+	            android:id="@+id/alarm_area_selection_btn"
+	            android:layout_width="0dp"
+	            android:layout_height="40dp"
+	            android:text="@string/alarm_area_select"
+	            android:textSize="@dimen/text_title_size"
+	            android:layout_weight="1"/>
+	    </LinearLayout>
+	    
+	    <RelativeLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="40dp"
+	        android:visibility="gone">
+	
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:text="@string/alerm_io_layout"
+	            android:textColor="@color/color_black" />
+	
+	        <CheckBox
+	            android:id="@+id/alerm_cbx_i0_layout"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:layout_centerVertical="true"
+	            android:layout_gravity="right" />
+	
+	    </RelativeLayout>
+		
+	    <RelativeLayout
+	        android:id="@+id/alerm_ioview"
+	        android:layout_width="match_parent"
+	        android:layout_height="40dp"
+	        android:gravity="center_vertical"
+	        android:visibility="gone">
+	
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:text="@string/alerm_trigger_level"
+	            android:textColor="@color/color_black" />
+	
+	        <LinearLayout
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:gravity="center_vertical" >
+	
+	            <TextView
+	                android:id="@+id/alerm_tv_triggerlevel"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="@color/color_black" />
+	
+	            <ImageView
+	                android:id="@+id/alerm_img_leveldrop"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:src="@drawable/rightdown_selector" />
+	        </LinearLayout>
+	    </RelativeLayout>
+	    
+	    <ImageView
+	        android:layout_width="match_parent"
+	        android:layout_height="1dp"
+	        android:src="@color/color_grey" />
+	
+	    <RelativeLayout
+	        android:id="@+id/relativeLayout2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_vertical" >
+	
+	        <!-- <TextView
+		        android:id="@+id/textView2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="center_horizontal"
+		        android:text="@string/alerm_trigger_event"
+		        android:textColor="@color/color_black" /> -->
+	
+	        <TextView
+	            android:id="@+id/tv1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:text="@string/alerm_presetsit"
+	            android:textColor="@color/color_black" />
+	
+	        <LinearLayout
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:gravity="center_vertical" >
+	
+	            <TextView
+	                android:id="@+id/alerm_tv_preset"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="@color/color_black" />
+	
+	            <ImageView
+	                android:id="@+id/alerm_img_preset_drop"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:src="@drawable/rightdown_selector" />
+	        </LinearLayout>
+	    </RelativeLayout>
+	
+	    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:src="@color/color_grey" />
+	    
+	    <RelativeLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="50dp"
+	        android:gravity="center_vertical" >
+
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:gravity="center_vertical"
+	            android:text="@string/alerm_io_move"
+	            android:textColor="@color/color_black" />
+	
+	        <CheckBox
+	            android:id="@+id/alerm_cbx_io_move"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:layout_gravity="right" />
+	    </RelativeLayout>
+	    
+	    <RelativeLayout
+	        android:id="@+id/alerm_io_move_view"
+	        android:layout_width="match_parent"
+	        android:layout_height="40dp"
+	        android:gravity="center_vertical" >
+	
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_centerVertical="true"
+	            android:text="@string/alerm_ioout_level"
+	            android:textColor="@color/color_black" />
+	
+	        <LinearLayout
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:gravity="center_vertical" >
+	
+	            <TextView
+	                android:id="@+id/alerm_tv_ioout_level_value"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="@color/color_black" />
+	
+	            <ImageView
+	                android:id="@+id/alerm_img_ioout_level_drop"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:src="@drawable/abs__spinner_ab_default_holo_light" />
+	        </LinearLayout>
+	    </RelativeLayout>
+	</LinearLayout>
+
+    <ListView
+		android:id="@+id/record_time_listview"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/root_setting_layout"
+		android:listSelector="@drawable/listitem_pressed_selector"
+		android:background="@drawable/background_light_itemlist"
+		android:padding="10dp"
+		android:layout_margin="10dp"
+		/>
+</RelativeLayout>

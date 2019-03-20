@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:orientation="vertical" >
+    
+    <Button
+		android:id="@+id/preset_add"
+		android:layout_width="fill_parent"
+		android:layout_height="40dp"
+		android:background="@drawable/btn_add_preset_selector"
+		android:textColor="@color/color_white"
+		android:text="@string/preset_add"
+		/>
+
+    <ListView 
+        android:id="@+id/presentlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fastScrollEnabled="true"
+        android:divider="@color/color_divider"
+        android:dividerHeight="1dp"
+        android:fadeScrollbars="true"
+        ></ListView>
+</LinearLayout>

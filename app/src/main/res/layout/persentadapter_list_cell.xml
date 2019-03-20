@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="2dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="2dp"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal"
+    android:paddingBottom="2dp"
+    android:paddingTop="2dp" 
+    android:paddingLeft="2dp"
+    android:paddingRight="5dp"
+    android:background="@color/color_white"
+    
+    >
+  <!--    android:focusable="false" 
+   style="@style/PopupDialog"-->
+   
+    <ImageView 
+        android:id="@+id/presentadapter_img"
+        android:layout_height="40dp"
+        android:layout_width="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+       
+        >
+         <!-- android:layout_marginLeft="8dp"
+        android:layout_marginRight="3.0dip" -->
+    </ImageView>
+    <TextView android:id="@+id/presentadapter_get"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:textColor="@color/color_black"
+        android:paddingLeft="3.0dip"
+        android:paddingBottom="3.0dip"
+        android:paddingRight="3.0dip"
+        android:layout_toRightOf="@+id/presentadapter_img"
+        />
+    <ImageButton 
+        android:id="@+id/presentadapter_set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:scaleType="center"
+        android:layout_gravity="center"
+        android:background="@drawable/ptz_set"
+       
+       /><!-- android:background="@drawable/ptz_takepic_selector" -->
+
+</RelativeLayout>

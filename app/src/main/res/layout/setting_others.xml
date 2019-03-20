@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+      <RelativeLayout
+        android:id="@+id/top"
+        android:background="@color/color_top_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:gravity="center_vertical"
+        >
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:text="@string/others"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_light_itemlist"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="@string/others_setting_currentinfo"
+                android:textColor="@color/color_black"
+                android:textSize="18.0sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:src="@color/color_grey" />
+
+        <RelativeLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="@string/str_version"
+                android:textColor="@color/color_black" />
+
+            <TextView
+                android:id="@+id/current_firmware_version_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="..."
+                android:textColor="@color/color_black" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_light_itemlist"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="@string/others_setting_servernewinfo"
+                android:textColor="@color/color_black"
+                android:textSize="18.0sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:src="@color/color_grey"/>
+
+        <RelativeLayout
+            android:id="@+id/service_sysver"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="@string/str_version"
+                android:textColor="@color/color_black" />
+
+            <LinearLayout
+		        android:layout_width="wrap_content"
+		        android:layout_height="fill_parent"
+		        android:orientation="horizontal"
+	            android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+			    >
+			    <TextView
+	                android:id="@+id/new_firmware_version_tv"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="@color/color_black"
+	                android:layout_gravity="center_vertical"/>
+	            
+	            <ImageView
+	                android:id="@+id/issysnew"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:background="@drawable/have_new"
+	                android:layout_gravity="center_vertical"
+	                android:visibility="gone" />
+			</LinearLayout>
+        </RelativeLayout>
+	</LinearLayout>
+	<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <CheckBox
+			android:id="@+id/auto_update"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="@color/color_black"
+			android:layout_alignParentLeft="true"
+			android:layout_centerVertical="true"
+			android:layout_marginLeft="10dp"
+			android:clickable="true"
+			android:text="@string/others_auto_update"
+			/>
+	    <Button
+		    android:id="@+id/btn_update"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+		    android:layout_marginRight="10dp"
+		    android:background="@drawable/ptz_default_set_selector"
+		    android:text="@string/others_check_update"
+		    />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/update_progress_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+	    android:visibility="gone">
+	    
+	    <!-- <ProgressBar
+	        android:id="@+id/update_progress"
+	        style="?android:attr/progressBarStyleHorizontal"
+	        android:layout_width="match_parent"
+	        android:layout_height="20dp"
+	        android:layout_marginTop="100dp"
+	        android:layout_gravity="center_vertical"
+	        android:layout_margin="5dp"
+	        /> -->
+	    <ProgressBar
+	        android:id="@+id/update_progress"
+	        android:layout_width="50dp"
+	        android:layout_height="50dp"
+	        android:layout_marginTop="100dp"
+	        android:layout_gravity="center_horizontal"
+	        android:layout_margin="5dp"
+	        />
+	    <TextView
+	        android:id="@+id/setting_upgrade_progress_tv"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="10dp"
+	        android:layout_gravity="center_horizontal"
+	        android:textColor="@color/color_top_bg"
+	        android:text="@string/setting_upgrade_progress"
+	        />
+    </LinearLayout>
+</LinearLayout>

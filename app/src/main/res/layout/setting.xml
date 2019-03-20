@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+	android:background="@drawable/background_light_back">
+    <RelativeLayout 
+        android:id="@+id/top"
+        android:layout_alignParentTop="true"
+        android:background="@color/color_top_bg"
+       	android:gravity="center_vertical"
+        android:layout_width="fill_parent" 
+        android:layout_height="50.0dip">
+        <!--  <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/back"/> -->
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+        <TextView 
+            android:id="@+id/tv_camera_setting"
+            android:textSize="18.0sp" 
+            android:textStyle="bold" 
+            android:layout_centerInParent="true"
+            android:textColor="@color/color_white" 
+            android:layout_gravity="center_vertical" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginLeft="10.0dip" 
+            android:shadowColor="@color/color_shadow" 
+            android:text="@string/setting"
+            android:shadowDx="1.0" 
+            android:shadowDy="1.0" 
+            android:shadowRadius="1.0" />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/bottom"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:layout_height="40.0dip"
+        style="@style/top_bg_style" >
+	<ImageView
+        android:id="@+id/line1"
+        android:layout_width="fill_parent"
+        android:layout_height="2.0dip"
+        android:layout_below="@+id/top"
+        android:src="@drawable/background_separate_vertical" />
+        <TextView
+            android:id="@+id/tv_camera_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+<!--     android:layout_above="@+id/bottom" -->
+     <LinearLayout android:id="@+id/linearLayout2"
+         android:padding="10dp"
+         android:layout_below="@+id/top"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical">
+         <TextView 
+             android:gravity="left"
+             android:textStyle="bold" 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/edit_camera"
+             android:textColor="@color/color_black" 
+             android:textSize="20.0sp" 
+             android:shadowColor="@color/color_shadow" 
+             />
+         <ListView 
+             android:id="@+id/editcameralist"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:divider="@color/color_divider"
+             android:scrollbars="none"
+             android:dividerHeight="1dp"
+             android:fadingEdge="none"
+             android:listSelector="#00000000"
+             android:cacheColorHint="#00000000"
+             android:background="@drawable/background_light_itemlist"></ListView>
+     </LinearLayout>
+
+    
+     <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:padding="10dp"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+     <TextView 
+            android:id="@+id/tvset"
+             android:gravity="left"
+             android:textStyle="bold" 
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/setting_camera"
+             android:textColor="@color/color_black" 
+             android:textSize="20.0sp" 
+             android:shadowColor="@color/color_shadow" 
+             android:visibility="gone"
+             />
+    <ListView
+        android:id="@+id/settinglist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:divider="@color/color_divider"
+        android:dividerHeight="1dp"
+        android:listSelector="#00000000"
+        android:cacheColorHint="#00000000"
+        android:background="@drawable/background_light_itemlist"
+        >
+    </ListView>
+    
+    </LinearLayout>
+
+</RelativeLayout >

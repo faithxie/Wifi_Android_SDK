@@ -1,0 +1,71 @@
+<freesbell.demo.utils.SlidingMenu 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_menu"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:background="@drawable/grid_bg"
+    android:scrollbars="none"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" 
+    	android:background="@drawable/img_frame_background">
+
+        <include layout="@layout/layout_menu" />
+        
+		<LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:background="@color/color_white"
+            >
+
+		    <!-- <LinearLayout
+		        android:id="@+id/title_layout"
+		        android:layout_width="match_parent"  
+        		android:layout_height="wrap_content"  
+		        android:orientation="horizontal"
+		        android:background="@drawable/grid_bg"
+		        android:fitsSystemWindows="true"  
+				android:clipToPadding="true"
+		        > 
+		        
+		        <TextView
+	                android:id="@+id/user_name"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="5dp"
+	                android:text="Jerry hu"
+	                android:textColor="#f0f0f0"
+	                android:textSize="25sp" />
+		    </LinearLayout>-->
+        
+            <FrameLayout
+                android:id="@+id/realtabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1.0"
+                />
+            
+            <!-- <ImageView
+		        android:layout_width="match_parent"
+		        android:layout_height="1dp"
+		        android:background="@color/color_divider"
+		        /> -->
+            <android.support.v4.app.FragmentTabHost
+                android:id="@android:id/tabhost"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                >
+		        <!-- android:layout_alignParentBottom="true" -->
+            </android.support.v4.app.FragmentTabHost>
+        </LinearLayout>
+	</LinearLayout>
+</freesbell.demo.utils.SlidingMenu>

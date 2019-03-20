@@ -1,0 +1,72 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:key="not_send_bcast_ssid"
+        android:summaryOn="Reduce the sending packets, but only valid for no hidden SSID."
+        android:summaryOff="OFF"
+        android:defaultValue="true"
+        android:title="@string/title_not_send_bcast_ssid" />
+
+    <CheckBoxPreference
+        android:key="pack_type"
+        android:summaryOn="Optimization for long profile."
+        android:summaryOff="OFF"
+        android:defaultValue="true"
+        android:title="@string/title_pack_type" />
+
+    <EditTextPreference
+        android:defaultValue="@string/config_max_time"
+        android:inputType="number"
+        android:key="config_max_time"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/title_config_max_time" />
+
+    <EditTextPreference
+        android:defaultValue="@string/old_mode_config_time"
+        android:inputType="number"
+        android:key="old_mode_config_time"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/title_old_mode_config_time" />
+
+    <EditTextPreference
+        android:defaultValue="@string/profile_rounds_val"
+        android:inputType="number"
+        android:key="profile_rounds_val"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/title_profile_rounds" />
+
+    <EditTextPreference
+        android:defaultValue="@string/profile_inteval_val"
+        android:inputType="number"
+        android:key="profile_inteval_val"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/title_profile_inteval" />
+
+    <EditTextPreference
+        android:defaultValue="@string/packet_inteval_val"
+        android:inputType="number"
+        android:key="packet_inteval_val"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:dialogMessage="@string/title_packet_except"
+        android:title="@string/title_packet_inteval" />
+
+    <EditTextPreference
+        android:defaultValue="@string/packet_counts_val"
+        android:inputType="number"
+        android:key="packet_counts_val"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/title_packet_times" />
+
+</PreferenceScreen>

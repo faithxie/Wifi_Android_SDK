@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_black"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:orientation="vertical"
+            >
+            <Button
+                android:id="@+id/date_zone_middle_island"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_middle_island" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+             <Button
+                android:id="@+id/date_zone_hawaii"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_hawaii" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_alaska"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_alaska" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_pacific_time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_pacific_time" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_mountain_time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_mountain_time" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_middle_part_time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_middle_part_time" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_eastern_time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_eastern_time" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_ocean_time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_ocean_time" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_newfoundland"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_newfoundland" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_brasilia"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_brasilia" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_center_ocean"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_center_ocean" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_cap_verde_island"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_cape_verde_island" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_greenwich"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_greenwich" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_brussels"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_brussels" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            
+            <Button
+                android:id="@+id/date_zone_athens"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_athens" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_nairobi"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_nairobi" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_teheran"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_teheran" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            
+            <Button
+                android:id="@+id/date_zone_baku"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_baku" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_kebuer"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_kebuer" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_islamabad"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_islamabad" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_calcutta"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_calcutta" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_alamotu"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_alamotu" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            
+            <Button
+                android:id="@+id/date_zone_bangkok"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_bangkok" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_beijing"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_beijing" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_seoul"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_seoul" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_darwin"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_darwin" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_guam"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_guam" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_soulumen"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_suolumen" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            <Button
+                android:id="@+id/date_zone_auckland"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="@color/color_white"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#00000000"
+                android:singleLine="true"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:focusableInTouchMode="true"
+                android:ellipsize="marquee"
+                
+                android:gravity="center"
+                android:text="@string/date_auckland" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@color/color_line" />
+            
+            
+            
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

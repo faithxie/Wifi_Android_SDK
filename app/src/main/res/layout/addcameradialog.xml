@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#88000000"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/dialog_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/top"
+            android:layout_alignParentTop="true"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:id="@+id/tvSearchResult"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="TextView"
+                android:textSize="18sp" />
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/textView2" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="TextView" /> -->
+
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/textView3" -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="TextView" /> -->
+
+        </LinearLayout>
+ 		<LinearLayout
+            android:id="@+id/bottom"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btnrefresh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Button" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_above="@+id/bottom"
+            android:layout_below="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/listView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:divider="@color/color_divider"
+        		android:dividerHeight="1dp"
+                >
+            </ListView>
+            
+                
+        </LinearLayout>
+
+       
+    </RelativeLayout>
+
+</LinearLayout>

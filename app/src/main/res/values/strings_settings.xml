@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_header_general">General</string>
+    <string name="pref_config_params">Configure Parameters</string>
+
+    <string name="title_not_send_bcast_ssid">Do not send SSID</string>
+    <string name="title_pack_type">Packet Type</string>
+    <string name="title_config_max_time">Maxium Configuring Time(ms):</string>
+    <string name="title_old_mode_config_time">Old Mode Configuring Time(ms):</string>
+    <string name="title_profile_rounds">Profile Continuous Sending Rounds:</string>
+    <string name="title_profile_inteval">Profile Sending Rounds Time Interval(ms):</string>
+    <string name="title_packet_inteval">Packet Sending Time Interval(ms):</string>
+    <string name="title_packet_except">This value is invalid for Samsung-G9008.</string>
+    <string name="title_packet_times">Each Packet Sending Counts:</string>
+    <string name="config_max_time">120000</string>
+    <string name="old_mode_config_time">0</string>
+    <string name="profile_rounds_val">1</string>
+    <string name="profile_inteval_val">1000</string>
+    <string name="packet_inteval_val">0</string>
+    <string name="packet_counts_val">1</string>
+
+    <string name="pref_app_version">Application Version</string>
+
+</resources>

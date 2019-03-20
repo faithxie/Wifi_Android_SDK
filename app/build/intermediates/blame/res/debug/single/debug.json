@@ -1,0 +1,1938 @@
+[
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_imageview_yin_xian.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\imageview_yin_xian.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_search.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\camera_search.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_left_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_left_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_audio_off.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_audio_off.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_operation_button_background.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\operation_button_background.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_tab_layout.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\nav_tab_layout.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_bar.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\thumb_bar.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pic_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_pic_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_empty.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_empty.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_default_set_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_default_set_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_device.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\add_device.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_left.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_showlocalvideo_activity.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\showlocalvideo_activity.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_sliding_menu.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\main_sliding_menu.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_talk_disabled.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_talk_disabled.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_left.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_new_folder.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_new_folder.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_imageview_xian_yin.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\imageview_xian_yin.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_del_hook.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\del_hook.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_start.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_increase_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\increase_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_other.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_other.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alarm_log_bg.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\alarm_log_bg.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app200.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\app200.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_btn_pressed.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\add_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_right_round_border.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_right_round_border.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_page_camera.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\tab_page_camera.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settinguser.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settinguser.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_moreptz_land.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\moreptz_land.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_btn_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\add_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_menu_dismiss.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\menu_dismiss.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sdcard_video_parent_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sdcard_video_parent_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app200.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-xhdpi\\app200.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_creat_device.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\creat_device.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainline.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\mainline.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_remotetfcard.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\remotetfcard.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resolution_btn_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\resolution_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_view.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_playback.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\playback.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-ldpi\\app.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_view_main_frame_top.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\camera_view_main_frame_top.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pager.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\fragment_pager.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_localpic_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\localpic_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_left_round.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_left_round.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_refresh.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_defaultblack.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\defaultblack.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_pressed_top_corner_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_pressed_top_corner_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_pause_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_pause_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_resolution_preset.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_preset.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_down_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_down_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_fl_right_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_fl_right_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_layout.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\notification_layout.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_white_corner.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_white_corner.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_ptz_resolution_jpeg.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\ptz_resolution_jpeg.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown_normal.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\dropdown_normal.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_sc_param.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\xml\\pref_sc_param.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\search_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_playmode_enlarge.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_enlarge.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN-hdpi-v4_btn_tool_hd_blue.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-zh-rCN-hdpi-v4\\btn_tool_hd_blue.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_fl_up_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_fl_up_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_takevideo_btn_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\takevideo_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_setting_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\user_setting_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_menu_frame.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\left_menu_frame.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_right_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_right_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down_image.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\down_image.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_dropdown.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\icon_dropdown.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setreslution.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\setreslution.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_list_corner_round_top.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\app_list_corner_round_top.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_main_nav_off.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\tab_main_nav_off.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_camera_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_camera_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkmiddle_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkmiddle_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_voice_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vidicon_add.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\vidicon_add.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkphone_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkphone_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_camera.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_icon_camera.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_sc_version.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\xml\\pref_sc_version.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app200.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-mdpi\\app200.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_go_next.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\go_next.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_ethernet.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_ethernet.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainright_menu.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\mainright_menu.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_decrease_select.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\decrease_select.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_fullscreen.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_fullscreen.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_forward.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\forward.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainlogin.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\mainlogin.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_twodimensioncode_camera.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\twodimensioncode_camera.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_head_icon_boy.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\head_icon_boy.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_title.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\no_title.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_left_round_border.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_left_round_border.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mic_btn_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\mic_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\update.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_ptz_resolution_h264.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\ptz_resolution_h264.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingpopwindow.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingpopwindow.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_presetpopcell.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\presetpopcell.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_voice_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_right_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_right_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic_sd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\pic_sd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_document.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_document.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_increase_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\increase_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_button_bar_normal.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\bottom_button_bar_normal.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_right_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_right_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_picturevideo_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\picturevideo_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekprogress.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\seekprogress.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_hw_res_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\hw_res_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_motion.jpg.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\icon_motion.jpg"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_right.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_right.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abs__spinner_ab_default_holo_light.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addvidiconshape.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\addvidiconshape.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rightdown_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\rightdown_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_play_pause_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\video_play_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_more.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_more.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myseekbar.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\myseekbar.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\file_icon_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_left_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_left_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_fl_left_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_fl_left_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_control_iface.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_control_iface.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_attribute.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\device_attribute.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_msg_pupop_window_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\msg_pupop_window_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_up_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_up_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qrcode_scan_line.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sd_card_available_icon.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\sd_card_available_icon.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingdialog.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingdialog.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_search_add_corner.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\main_search_add_corner.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_mobile_network.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_mobile_network.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_presentget.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\presentget.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_narrow.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\narrow.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dev_choose_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\dev_choose_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_sd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_sd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vidicon_bottom.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\vidicon_bottom.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_picture.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_picture.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_menu_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_menu_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_loadmorecount.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\loadmorecount.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_down.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_down.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_button_bar.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\bottom_button_bar.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ko-hdpi-v4_btn_hd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-ko-hdpi-v4\\btn_hd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkright_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkright_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_playbacktf.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\playbacktf.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_addcameradialog.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\addcameradialog.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_default_round.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\list_default_round.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkmiddle_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkmiddle_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pause_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_pause_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gpio_on.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\gpio_on.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_down.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_down.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_recording.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_recording.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_main_nav_down.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\tab_main_nav_down.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sd_card_icon.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\sd_card_icon.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_pressed_bottom_corner_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_pressed_bottom_corner_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_add_preset_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_add_preset_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_takevideo_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_takevideo_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkphone_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\checkphone_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_bottom.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\left_bottom.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_ptz_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_ptz_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_on_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_right_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_right_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_set.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_set.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_down_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_down_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_up.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\right_up.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_persentadapter_list.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\persentadapter_list.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_to_right.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\big.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_up.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_ptz_otherset_anim.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\ptz_otherset_anim.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dev_choose_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\dev_choose_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_addvidicon_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\addvidicon_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainsetting_dialog_frame.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\mainsetting_dialog_frame.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN-hdpi-v4_btn_sd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-zh-rCN-hdpi-v4\\btn_sd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_play_right_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\video_play_right_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_ptz_top_anim_dismiss.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\ptz_top_anim_dismiss.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_normal.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gpio_off.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\gpio_off.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_group.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\selector_group.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_osd.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_osd.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_menu.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_menu_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_menu_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainsetting_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\mainsetting_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_take_video_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_take_video_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ko-hdpi-v4_btn_sd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-ko-hdpi-v4\\btn_sd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_left.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_left.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_one_pressed.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_one_pressed.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_up.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_up.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_slidingmenumain.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_record.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_record.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_button_bar_pressed.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\bottom_button_bar_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_fl_down_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_fl_down_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_image.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay2.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\lay2.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingdate.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingdate.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_playbacktf_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\playbacktf_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_cransh_report.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_cransh_report.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_brightprogress.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\brightprogress.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_off.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_silver_light.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_silver_light.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_page_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\tab_page_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_hd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_hd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\main_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_main_nav_on.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\tab_main_nav_on.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN-hdpi-v4_btn_hd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-zh-rCN-hdpi-v4\\btn_hd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_right_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_right_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnselector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btnselector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_pressed_top_corner.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_pressed_top_corner.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_take_picture_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_take_picture_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_light_itemlist.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_light_itemlist.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_music.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_music.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_expanded.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\expanded.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_control_dev_dialog.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_control_dev_dialog.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingdate_timezone_popwindow.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingdate_timezone_popwindow.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_middle.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_middle.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_up_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_up_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_takevideo_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_takevideo_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingalarm.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingalarm.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hw_sub_dev.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\hw_sub_dev.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_left_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_left_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay1.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\lay1.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_record.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_record.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_btn_normal.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\add_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brightcontrastprogress.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\brightcontrastprogress.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_view_pager.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_view_pager.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_persentadapter_list_cell.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\persentadapter_list_cell.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_btn_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\play_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_right.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_right.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingdialog_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingdialog_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_right_menu_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\main_right_menu_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_textinput_dialog.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\textinput_dialog.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingdate_ntpserver_popwindow.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingdate_ntpserver_popwindow.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_play_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_play_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_snapshot.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\test_snapshot.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_tab.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\nav_tab.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_light_back.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_light_back.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN-hdpi-v4_btn_tool_sd_blue.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-zh-rCN-hdpi-v4\\btn_tool_sd_blue.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_on_holo_light.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_record_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_record_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_page_about.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\tab_page_about.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_image_border.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\style_image_border.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_buttons_view_divider.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\buttons_view_divider.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_others.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_others.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_gpio.jpg.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\icon_gpio.jpg"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkleft_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkleft_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_record_highlighted.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_record_highlighted.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_event.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_event.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recover.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\recover.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pic_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_pic_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_off_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_check_off_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_menu_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_menu_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_grayblack.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_grayblack.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_local_picture.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\local_picture.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_base_content.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\base_content.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_list_items.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_list_items.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingmail.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\settingmail.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_network_content.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\add_network_content.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_presetpopupwindow.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\presetpopupwindow.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_content_remove.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\content_remove.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_have_new.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\have_new.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_ptz_otherset_anim_show.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\ptz_otherset_anim_show.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_reversal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_reversal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_up_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_up_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_takepic_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_takepic_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_moreptz.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\moreptz.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_brightness.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_brightness.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_view_main_frame.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\camera_view_main_frame.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_pressed_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_pressed_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_collapse.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\collapse.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_localpic_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\localpic_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_takepic.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_takepic.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainright_menu_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\mainright_menu_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_up.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_up.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_viewer.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\camera_viewer.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_record_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_record_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_recorder_schedule_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\recorder_schedule_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_feature_setting.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_setting.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_microphone_on.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_on.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_play_left_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\video_play_left_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_takepic_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_takepic_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_takevideo.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_takevideo.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_apk.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_apk.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_login.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\bottom_login.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_reversal_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_reversal_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_cancel.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_cancel.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\menu_operation_menu.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\menu\\operation_menu.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_pause_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_pause_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_playmode_fullscreen_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_fullscreen_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_easyicon_cn.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\easyicon_cn.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_talk_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_talk_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_osd.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_osd.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_camera.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\add_camera.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_info.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_ptz_otherset_anim_dismiss.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\ptz_otherset_anim_dismiss.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_startupdate.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\startupdate.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_pincode_dialog.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_pincode_dialog.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_info.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_info.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_right_round.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_right_round.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_page_alarm.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\tab_page_alarm.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_theme.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_theme.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_list_corner_round_bottom.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\app_list_corner_round_bottom.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_hw_res_setting.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\hw_res_setting.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_voice_btn_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\voice_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_control_gallery_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\camera_control_gallery_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_mulscreen.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_mulscreen.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bad_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\bad_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_remote_file_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\remote_file_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_play_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_play_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_aaaa.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\aaaa.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_capture_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_capture_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_msg_notice_fragment_page.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\msg_notice_fragment_page.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bkg_img_default.jpg.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\bkg_img_default.jpg"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_picture.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\main_picture.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_attribute_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\device_attribute_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_increase_select.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\increase_select.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_top.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\left_top.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_setting_camera.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_camera.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_play_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_play_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_right.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainregister.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\mainregister.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_muscreen.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\muscreen.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_playmode_standard.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_standard.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_on_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dialog_icon.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_dialog_icon.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_top_tab_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\check_top_tab_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list_fragment_page.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\device_list_fragment_page.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_rec.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\icon_rec.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_right_menu.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\main_right_menu.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_bg.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\edit_bg.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic_hd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\pic_hd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settingpng.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\settingpng.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_presentset.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\presentset.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_pic.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\back_pic.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_tab_setting_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\main_tab_setting_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_gpio.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_gpio.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_reversal_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_reversal_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_voice_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_voice_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_decrease_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\decrease_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tool_capture_highlighted.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_tool_capture_highlighted.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_pressed_bottom_corner.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_pressed_bottom_corner.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grid_bg.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\grid_bg.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbg.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\seekbg.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-mdpi\\app.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_pictureactivity.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\pictureactivity.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_camera.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_camera.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_top_back.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\scan_top_back.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_left.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dev_choose_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\dev_choose_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_video_play_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_video_play_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_horizontal_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\horizontal_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_list_corner_round.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\app_list_corner_round.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_audio_on.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_audio_on.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_image.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\right_image.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_floating.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\floating.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_bg_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_left_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_left_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checktopleft_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checktopleft_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sliding_menu_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sliding_menu_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_bar_bg.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_right.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_right.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_more.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_more.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_play_pause_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\video_play_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_play_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_play_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_frame_background.jpg.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\img_frame_background.jpg"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_wifi_controller_test.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\wifi_controller_test.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_border.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_border.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_one_pressed_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\listitem_one_pressed_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_exit.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\exit.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_main1.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\main1.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_copy.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_copy.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_localpicture_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\localpicture_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dropdown.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\dropdown.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bar_zip.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_bar_zip.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_camera.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\add_camera.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_playbacktf_grouplistitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\playbacktf_grouplistitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_checkvideo.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_checkvideo.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_icon_video.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_icon_video.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_right_menu_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\main_right_menu_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_left_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_left_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_microphone_off.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_microphone_off.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkright_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkright_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moremenu.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\moremenu.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN-hdpi-v4_btn_tool_sd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-zh-rCN-hdpi-v4\\btn_tool_sd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_aaa.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\aaa.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_list_corner_round_center.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\app_list_corner_round_center.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_separate_vertical.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_separate_vertical.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_edit_listitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\camera_edit_listitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_updated.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\updated.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sdcard_video_child_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sdcard_video_child_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rightdown.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\rightdown.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customprogress.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\customprogress.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_down.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_on.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selected.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_selected.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_ptz_setting_cell.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\more_ptz_setting_cell.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-xhdpi\\app.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_tfcard.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_tfcard.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_ptz_top_anim_show.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\ptz_top_anim_show.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_house.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\house.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_focused.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_voice_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vbg.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-ldpi\\vbg.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stat_sys_install_complete.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\stat_sys_install_complete.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left_image.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\left_image.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrowdown.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\arrowdown.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_check_off_holo_light.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_off_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_check_off_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainright_menu_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\mainright_menu_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_subdev.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_subdev.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_screenrotation.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\screenrotation.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_down.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_down.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_ptz.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_ptz.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_playmode_fullscreen.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_playmode_fullscreen.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_center.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_center.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_left.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_left.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_img_sensor_cfg.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_img_sensor_cfg.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox_selector1.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\checkbox_selector1.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rightdown_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\rightdown_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_list_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\camera_list_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_main_nav_text_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\tab_main_nav_text_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_playbacktf_childlistitem.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\playbacktf_childlistitem.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\menu_application.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\menu\\application.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_combobox_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\combobox_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_menu_show.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\menu_show.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_album_inverse.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_album_inverse.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchcamera_popwindow.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\searchcamera_popwindow.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_view.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\title_view.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_left.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_left.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_thumb.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\seekbar_thumb.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_combobox_listview.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\combobox_listview.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up_image.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\up_image.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkphone_pressed.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\checkphone_pressed.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_icon_theme.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\file_icon_theme.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vidicon.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\vidicon.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ptz_resolution_qvga.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\ptz_resolution_qvga.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_sc_config_iface.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\sc_config_iface.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_button_bg_bottom.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\category_button_bg_bottom.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_anim.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\anim\\splash_anim.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hw_res.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\hw_res.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fl_down_selected.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\fl_down_selected.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vidicon_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\vidicon_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setup.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\setup.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_main_nav_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\tab_main_nav_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decrease_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\decrease_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_hw_res_list_sub_item.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\hw_res_list_sub_item.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-rCN-hdpi-v4_btn_tool_hd.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-zh-rCN-hdpi-v4\\btn_tool_hd.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qrcode_img.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\qrcode_img.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_connect.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\connect.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainsettingdialog.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\mainsettingdialog.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_play_play_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\video_play_play_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_local_video_picture.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\local_video_picture.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_setting_fragment_page.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\more_setting_fragment_page.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_page_picture.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\tab_page_picture.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_alarm_area_selection.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\layout\\setting_alarm_area_selection.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_pic_selector.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\btn_pic_selector.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_pressed.9.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_silver.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\background_silver.xml"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_move.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_move.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptz_default_set2.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable\\ptz_default_set2.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_record_normal.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\btn_record_normal.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_operation_button_delete.png.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\drawable-hdpi\\operation_button_delete.png"
+    },
+    {
+        "merged": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "D:\\android-mqtt-service-master\\Wifi_Android_SDK\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    }
+]

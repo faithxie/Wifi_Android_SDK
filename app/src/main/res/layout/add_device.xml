@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/addcamera"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@color/color_top_bg"
+	    >
+	    <ImageButton
+	        android:id="@+id/back"
+	        android:layout_width="40dp"
+	        android:layout_height="40dp"
+	        android:layout_marginLeft="5dp"
+	        android:layout_alignParentLeft="true"
+	        android:layout_centerVertical="true"
+	        android:background="@drawable/ptz_default_set_selector"
+	        android:src="@drawable/btn_back"
+	        android:scaleType="fitXY"
+	        />
+	</RelativeLayout>
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        style="@style/bg_style"
+        android:padding="10.0dip"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/background_light_itemlist"
+                android:orientation="vertical"
+                 >
+ 		<TextView
+            android:id="@+id/textview_add_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="18dip"
+            android:textColor="@color/color_black"
+            android:textSize="18.0sp"
+            />
+<!--  		<TextView -->
+<!--             android:id="@+id/textview_add_camera" -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:layout_gravity="center_vertical" -->
+<!--             android:layout_marginLeft="5.0dip" -->
+<!--             android:shadowColor="@color/color_shadow" -->
+<!--             android:shadowDx="1.0" -->
+<!--             android:shadowDy="1.0" -->
+<!--             android:shadowRadius="1.0" -->
+<!--             android:textColor="@color/color_white" -->
+<!--             android:textSize="18.0sp" -->
+<!--             android:textStyle="bold" /> -->
+ 				<ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:background="#00000000"
+                        android:singleLine="true"
+		                android:marqueeRepeatLimit="marquee_forever"
+		                android:focusableInTouchMode="true"
+		                android:ellipsize="marquee"
+                        android:layout_width="63dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="5dip"
+                        android:text="@string/camera_name"
+                        android:textColor="@color/color_black"
+                        android:textSize="@dimen/text_title_size" />
+
+                    <EditText
+                        android:id="@+id/editDevName"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="5dp"
+                        android:maxLength="20"
+                        android:singleLine="true"
+                        android:text="@string/dev_type_camera" />
+                </LinearLayout>
+                <!-- <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal" >
+                     <Button
+                        android:background="#00000000"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="15dp"
+                        android:gravity="center_vertical"
+                        android:text="@string/operation_device_type"
+                        android:singleLine="true"
+		                android:marqueeRepeatLimit="marquee_forever"
+		                android:focusableInTouchMode="true"
+		                android:ellipsize="marquee"
+                        android:textColor="@color/color_black"
+                        android:textSize="@dimen/text_title_size" />
+
+                    <EditText
+                        android:id="@+id/editDevType"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:singleLine="true" />
+                        <com.homeviewer.client.ComboBox
+				            android:id="@+id/id_combobox"
+				            android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:layout_marginLeft="15dp"
+	                        android:layout_marginRight="5dp"
+	                        android:layout_weight="1"
+				            />
+                </LinearLayout> -->
+				<ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal" >
+
+                     <Button
+                        android:background="#00000000"
+                        android:layout_width="63dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="15dp"
+                        android:gravity="center_vertical"
+                        android:text="@string/camera_id"
+                        android:singleLine="true"
+		                android:marqueeRepeatLimit="marquee_forever"
+		                android:focusableInTouchMode="true"
+		                android:ellipsize="marquee"
+                        android:textColor="@color/color_black"
+                        android:textSize="@dimen/text_title_size" />
+
+                    <EditText
+                        android:id="@+id/editDID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:singleLine="true" />
+                </LinearLayout>
+<!--                 <ImageView -->
+<!--                     android:id="@+id/imageView1" -->
+<!--                     android:layout_width="match_parent" -->
+<!--                     android:layout_height="1dp" -->
+<!--                     android:layout_marginLeft="5dp" -->
+<!--                     android:layout_marginRight="5dp" -->
+<!--                     android:src="@color/color_grey" /> -->
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right" >
+
+                    <Button
+                        android:id="@+id/scanID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="93dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:text="@string/scan_cameraid"
+                        android:textSize="@dimen/text_title_size" />
+
+                    <Button
+                        android:id="@+id/btn_searchCamera"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="@string/str_search"
+                        android:layout_marginRight="5dp"
+                        android:textSize="@dimen/text_title_size" />
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+
+              <LinearLayout
+                  android:id="@+id/edit_user_layout"
+                  android:visibility="gone"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:layout_marginBottom="5dp"
+                  android:orientation="horizontal" >
+	              <TextView
+		              android:background="#00000000"
+		              android:layout_width="60dp"
+		              android:layout_height="match_parent"
+		              android:layout_marginLeft="15dp"
+		              android:gravity="center_vertical"
+		              android:text="@string/camera_user"
+		              android:singleLine="true"
+		              android:marqueeRepeatLimit="marquee_forever"
+		              android:focusableInTouchMode="true"
+		              android:ellipsize="marquee"
+		              android:textColor="@color/color_black"
+		              android:textSize="@dimen/text_title_size" />
+	               <EditText
+	                   android:id="@+id/editUser"
+	                   android:layout_width="fill_parent"
+	                   android:layout_height="wrap_content"
+	                   android:layout_marginLeft="15dp"
+	                   android:layout_marginRight="5dp"
+	                   android:maxLength="20"
+	                   android:singleLine="true"
+	                   android:text="admin" />
+               </LinearLayout>
+               
+               <LinearLayout
+                   android:id="@+id/old_pwd_layout"
+                   android:visibility="gone"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal" >
+	                <TextView
+	                    android:background="#00000000"
+	                    android:layout_width="60dp"
+	                    android:layout_height="match_parent"
+	                    android:layout_marginLeft="15dp"
+	                    android:gravity="center_vertical"
+	                    android:text="@string/old_pwd"
+	                    android:singleLine="true"
+		                android:marqueeRepeatLimit="marquee_forever"
+		                android:focusableInTouchMode="true"
+		                android:ellipsize="marquee"
+	                    android:textColor="@color/color_black"
+	                    android:textSize="@dimen/text_title_size" />
+	                <EditText
+	                    android:id="@+id/old_pwd_ed"
+	                    android:layout_width="fill_parent"
+	                    android:layout_height="wrap_content"
+	                    android:layout_marginLeft="15dp"
+	                    android:layout_marginRight="5dp"
+	                    android:textSize="15sp"
+	                    android:maxLength="20"
+	                   	android:inputType="textPassword"
+	                    android:singleLine="true"
+	                    android:hint="@string/old_pwd_hint"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal" >
+	                <TextView
+	                   	android:background="#00000000"
+	                   	android:layout_width="63dp"
+	                   	android:layout_height="match_parent"
+	                   	android:layout_marginLeft="15dp"
+	                   	android:gravity="center_vertical"
+	                   	android:text="@string/camera_pwd"
+	                  	android:singleLine="true"
+	                	android:marqueeRepeatLimit="marquee_forever"
+	                	android:focusableInTouchMode="true"
+	                	android:ellipsize="marquee"
+	                   	android:textColor="@color/color_black"
+	                   	android:textSize="@dimen/text_title_size" />
+	
+	               <EditText
+	                   	android:id="@+id/editPwd"
+	                   	android:layout_width="fill_parent"
+	                   	android:layout_height="wrap_content"
+	                   	android:layout_marginLeft="15dp"
+	                   	android:layout_marginRight="5dp"
+	                   	android:maxLength="20"
+	                    android:textSize="15sp"
+	                   	android:inputType="textPassword"
+	                   	android:singleLine="true"
+	                   	android:hint="@string/camera_pwd_hint">
+	                </EditText>
+                </LinearLayout>
+                <CheckBox
+					android:id="@+id/dev_show_passwd_cb"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textColor="@color/color_black" 
+					android:layout_gravity="right"
+					android:layout_marginRight="10dp"
+					android:layout_marginTop="5dp"
+					android:layout_marginBottom="5dp"
+					android:text="@string/showpwd"
+					/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                
+                <LinearLayout
+                  android:id="@+id/config_wifi_layout"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:layout_marginBottom="5dp"
+                  android:gravity="right"
+                  >
+	              <Button
+                        android:id="@+id/btn_config_wifi"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="@string/str_config_wifi"
+                        android:layout_marginRight="5dp"
+                        android:textSize="@dimen/text_title_size" />
+               </LinearLayout>
+               
+                <LinearLayout 
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal">
+                <Button 
+                    android:id="@+id/reroot"
+                    android:layout_width="wrap_content"
+                    android:visibility="gone"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/reoot"
+                    android:singleLine="true"
+                    android:textSize="@dimen/text_title_size"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout 
+                android:id="@+id/add_description"
+                android:layout_marginTop="50dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/background_white_corner"
+                android:orientation="vertical"
+                android:visibility="gone">
+                <TextView 
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:textColor="@color/color_black"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:gravity="center_vertical"
+                    android:layout_marginLeft="18dip"
+                    android:text="@string/add_camera_shuo"/>
+                <ImageView
+                    android:id="@+id/imageView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                  <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="10dp"
+                    >
+                    <TextView 
+                        android:id="@+id/decriptionadd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="18dip"
+                        android:layout_marginRight="18dip"
+                        android:singleLine="false"
+                        android:textSize="16sp"
+                        android:maxLines="25"
+                        android:textColor="@color/color_black"
+                        />
+               </LinearLayout>
+            </LinearLayout>
+            <ListView
+                android:id="@+id/searchcamera_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/background_white_corner"
+                android:cacheColorHint="#00000000"
+                android:listSelector="#00000000"
+                android:visibility="gone" >
+            </ListView>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/top_bg_style"
+        android:layout_width="fill_parent"
+        android:layout_height="60.0dip"
+        android:gravity="center_vertical" >
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="3.0dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5.0dip"
+            android:layout_weight="1.0"
+            android:text="@string/str_ok"
+            android:textSize="@dimen/text_title_size" />
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="3.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="5.0dip"
+            android:layout_weight="1.0"
+            android:text="@string/str_cancel"
+            android:textSize="@dimen/text_title_size" />
+    </LinearLayout>
+
+</LinearLayout>

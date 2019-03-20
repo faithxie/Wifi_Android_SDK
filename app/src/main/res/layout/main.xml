@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/ipcammain"
+  	android:background="@color/color_white"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        android:id="@+id/top_relativeLayout"
+        style="@style/top_bg_style"
+        android:layout_width="fill_parent"
+        android:layout_height="45.0dip">
+	        <TextView
+	            android:textSize="18.0sp"
+	            android:textStyle="bold"
+	            android:textColor="@color/color_white" 
+	            android:layout_gravity="center_vertical"
+	            android:layout_width="wrap_content" 
+	            android:layout_height="wrap_content" 
+	            android:text="@string/device_list"
+	            android:layout_centerVertical="true"
+		        android:layout_alignParentLeft="true"
+		        android:layout_marginLeft="12.0dip" 
+	            />
+	        
+	        <!-- <Button
+	            android:id="@+id/video_decode_mode_tv_id"
+	            android:textSize="18.0sp"
+	            android:textColor="@color/color_white"
+	            android:layout_width="50dp" 
+	            android:layout_height="35dp"
+	            android:layout_centerVertical="true"
+	            android:layout_toLeftOf="@+id/ptz_vert_muscreen"
+	            android:background="@drawable/btnselector"
+	            />
+             <ImageButton
+                 android:layout_toLeftOf="@+id/imgSearchDevice"
+                 android:id="@+id/ptz_vert_muscreen"
+                 android:layout_width="35dp"
+                 android:layout_height="35dp"
+                 android:background="#00000000"
+	         	android:layout_centerVertical="true"
+                 android:src="@drawable/muscreen" />
+             
+             <ImageButton
+                 android:layout_toLeftOf="@+id/imgAddDevice"
+                 android:id="@+id/imgSearchDevice"
+                 android:layout_width="35dp"
+                 android:layout_height="35dp"
+                 android:background="#00000000"
+	            android:layout_centerVertical="true"
+                 android:src="@drawable/camera_search" /> -->
+             
+             <ImageButton
+                 android:layout_alignParentRight="true"
+                 android:id="@+id/imgAddDevice"
+                 android:layout_width="35dp"
+                 android:layout_height="35dp"
+                 android:layout_marginRight="5dp"
+                 android:background="#00000000"
+	            android:layout_centerVertical="true"
+                 android:src="@drawable/add_camera" />
+             
+    </RelativeLayout>
+   
+    <EditText
+	    android:id="@+id/search_dev_et"
+	    android:layout_width="match_parent"
+	    android:layout_height="40dp"
+	    android:maxLength="128"
+	    android:visibility="gone"
+	    android:textAlignment="center"
+	    android:textColor="@color/color_black"
+	    android:background="@drawable/edit_bg"
+	    android:hint="@string/search_dev_list_hint"
+	    android:gravity="center"
+	    >
+	    <requestFocus />
+	</EditText>
+
+     <ExpandableListView
+        android:id="@+id/listviewCamera"
+        style="@style/bg_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_white"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/color_divider"
+        android:dividerHeight="1dp"
+        android:fadeScrollbars="true"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="true"
+        android:listSelector="@drawable/listitem_pressed_selector" />
+</LinearLayout>

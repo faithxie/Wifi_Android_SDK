@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="50dp"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:padding="5dp"
+    android:orientation="vertical" >
+
+    <ListView 
+        android:id="@+id/more_ptz_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fastScrollEnabled="true"
+        android:divider="@color/color_divider"
+        android:dividerHeight="1dp"
+        android:fadeScrollbars="true"
+        android:listSelector="@drawable/listitem_bg_selector"
+        ></ListView>
+    
+    <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="@color/color_white"
+	    android:padding="5dp"
+	    android:orientation="vertical"
+	    android:visibility="gone">
+    <TextView
+        android:id="@+id/ptz_saturation"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/saturation"
+        android:background="@drawable/ptz_default_set_selector"/>
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/ptz_acutance"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/acutance"
+        android:background="@drawable/ptz_default_set_selector"/>
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	 <TextView
+        android:id="@+id/ptz_contrast"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/constst" 
+        android:background="@drawable/ptz_default_set_selector"/>
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/ptz_hori_mirror"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/hormirror" 
+        android:background="@drawable/ptz_default_set_selector"/>
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/ptz_vert_mirror"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/vermirror"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/ptz_default_set"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/defaultset"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/hz50"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/hz50_window"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/hz60"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/hz60_window"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/ir_on"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/menu_ir_on"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/ir_off"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/menu_ir_off"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	<TextView
+        android:id="@+id/mode_outdoor"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/mode_outdoor"
+        android:background="@drawable/ptz_default_set_selector" />
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="1dp"
+        android:src="@color/color_line" />
+	</LinearLayout>
+</LinearLayout>

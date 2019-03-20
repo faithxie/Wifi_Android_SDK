@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+        <ImageView
+		        android:id="@+id/vidicon"
+		        android:layout_centerVertical="true"
+		        android:layout_marginLeft="8dp"
+		        android:layout_width="41dp"
+		        android:layout_height="25dp"
+		        android:background="@drawable/vidicon_add"
+		        />
+		        
+		<TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="50dp"
+		        android:layout_marginLeft="5dp"
+		        android:textColor="@color/color_black"
+		        android:gravity="center_vertical"
+		        android:text="@string/main_tap_here_add_vidicon" />   
+
+</LinearLayout>

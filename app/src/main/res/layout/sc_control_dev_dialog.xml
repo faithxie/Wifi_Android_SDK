@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content"
+	android:layout_width="wrap_content"
+	android:background="#ffffffff"
+	android:orientation="vertical"
+	android:id="@+id/dev_control_dialog">
+
+	<Button
+		android:id="@+id/rename_dev"
+	    android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:textSize="20sp"
+	    android:textColor="#000000"
+		android:text="@string/rename_dev" />
+
+	<Button
+		android:id="@+id/del_prof"
+	    android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:textSize="20sp"
+	    android:textColor="#000000"
+		android:text="@string/del_prof" />
+
+</LinearLayout>
+

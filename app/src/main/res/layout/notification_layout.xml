@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/top_bg_style"
+    android:gravity="center_vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/no_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:src="@drawable/abs__spinner_ab_default_holo_light" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="8dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/no_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="CameraName"
+                android:textSize="18sp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/color_white" />
+             <TextView
+                android:id="@+id/no_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="hhh"
+                android:textSize="12sp"
+                android:layout_margin="5dp"
+                android:textColor="@color/color_white" />
+            
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/no_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="Content"
+            android:textSize="12sp"
+            android:textColor="@color/color_white"  />
+    </LinearLayout>
+
+   
+
+</LinearLayout>

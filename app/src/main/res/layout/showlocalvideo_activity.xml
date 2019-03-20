@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <android.opengl.GLSurfaceView
+        android:id="@+id/glsurfaceview"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <ImageView
+        android:id="@+id/img_playvideo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" />
+
+    <ImageView
+        android:id="@+id/img_pause"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/play_video"
+        android:visibility="gone" />
+     <RelativeLayout
+        android:id="@+id/osdlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="50.0dip"
+        android:orientation="horizontal" 
+        android:visibility="gone">
+         <TextView
+            android:id="@+id/showvideotime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/background_osd"
+            android:textColor="#DDDDDD"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+     </RelativeLayout>
+    
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:background="@color/color_top_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="45.0dip"
+        android:gravity="center_vertical" >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_back"/>
+        
+        <!-- <Button
+            android:id="@+id/back"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_back_pressed1"
+            android:text="@string/back"
+            android:textColor="@color/color_black"
+            android:textSize="@dimen/text_title_size" /> -->
+
+        <TextView
+            android:id="@+id/takevideo_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10.0dip"
+            android:text="@string/setting"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10.0dip"
+            android:text="@string/setting"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:visibility="gone" />
+        <!-- <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5.0dip"
+            android:background="@drawable/btnselector"
+            android:text="@string/delete_this_picture"
+            android:textColor="@color/color_white" /> -->
+       <!--  <Button
+            android:id="@+id/deletevideo"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/add_btn_selector"
+            android:text="@string/delete_camera"
+            android:textColor="@color/color_white"
+            android:textSize="@dimen/text_title_size" /> -->
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center_vertical"
+        style="@style/top_bg_style" >
+        
+
+        <!-- <SeekBar -->
+        <!-- android:id="@+id/seekBar1" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="10dp" -->
+        <!-- android:layout_alignParentTop="true" -->
+        <!-- android:layout_marginBottom="5dp" -->
+        <!-- android:progressDrawable="@drawable/customprogress" -->
+        <!-- android:thumb="@null" /> -->
+
+        <RelativeLayout
+            android:background="@color/color_top_bg"
+            android:id="@+id/showbottom"
+            android:layout_width="fill_parent"
+            android:layout_height="65.0dip"
+            android:orientation="vertical" >
+
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:progressDrawable="@drawable/customprogress"
+                android:layout_height="5dp" 
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                />
+
+            <TextView
+                android:id="@+id/sumtime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/progressBar1"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="5dp"
+                android:text="00:00:00"
+                android:textColor="@color/color_white" />
+           
+
+            <TextView
+                android:id="@+id/currenttime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/progressBar1"
+                android:layout_marginLeft="5dp"
+                android:text="00:00:00"
+                android:textColor="@color/color_white" />
+
+            <TextView
+                android:id="@+id/takevideo_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/currenttime"
+                android:layout_margin="5dp"
+                android:text="TextView"
+                android:textColor="@color/color_white"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_below="@+id/progressBar1"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/btn_left"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/video_play_left_selector"
+                    android:layout_margin="10dp"/>
+
+                <Button
+                    android:id="@+id/btn_play"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/video_play_play_selector" />
+
+                <Button
+                    android:id="@+id/btn_right"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/video_play_right_selector" 
+                    android:layout_margin="10dp"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</FrameLayout>

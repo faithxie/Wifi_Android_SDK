@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/bg_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:background="@color/color_top_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:text="@string/remote_video_title"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+        
+        <ImageButton
+            android:id="@+id/storage_setting_btn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:scaleType="fitXY"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/main_right_menu"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/color_white"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+	        android:layout_width="0dp"
+	        android:layout_height="30dp"
+	        android:layout_weight="1"
+	        android:background="@drawable/edit_bg"
+	        android:orientation="horizontal"
+	        android:gravity="center_vertical" >
+	        <TextView
+	            android:id="@+id/edit_date_begin"
+	            android:layout_width="wrap_content"
+	            android:layout_height="fill_parent"
+	            android:layout_marginLeft="1dp"
+	            android:textSize="15sp"
+	            android:clickable="true"
+           	 	android:background="@drawable/ptz_default_set_selector"
+	            android:singleLine="true" >
+	        </TextView>
+	        <TextView
+	            android:id="@+id/edit_time_begin"
+	            android:layout_width="wrap_content"
+	            android:layout_height="fill_parent"
+	            android:layout_marginLeft="3dp"
+	            android:textSize="15sp"
+	            android:clickable="true"
+           	 	android:background="@drawable/ptz_default_set_selector"
+	            android:text="00:00:00"
+	            android:singleLine="true" >
+	        </TextView>
+        </LinearLayout>
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/remote_to" 
+            android:textSize="15sp"
+            android:textColor="@color/color_black"
+            />
+
+        <LinearLayout
+	        android:layout_width="0dp"
+	        android:layout_height="30dp"
+	        android:layout_weight="1"
+	        android:background="@drawable/edit_bg"
+	        android:orientation="horizontal"
+	        android:gravity="center_vertical" >
+	        <TextView
+	            android:id="@+id/edit_date_end"
+	            android:layout_width="wrap_content"
+	            android:layout_height="fill_parent"
+	            android:layout_marginLeft="1dp"
+	            android:textSize="15sp"
+	            android:clickable="true"
+           	 	android:background="@drawable/ptz_default_set_selector"
+	            android:singleLine="true" >
+	        </TextView>
+	        <TextView
+	            android:id="@+id/edit_time_end"
+	            android:layout_width="wrap_content"
+	            android:layout_height="fill_parent"
+	            android:layout_marginLeft="3dp"
+	            android:textSize="15sp"
+	            android:clickable="true"
+           	 	android:background="@drawable/ptz_default_set_selector"
+	            android:text="00:00:00"
+	            android:singleLine="true" >
+	        </TextView>
+        </LinearLayout>
+        
+        <ImageButton
+            android:id="@+id/search_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/search"
+            android:background="@drawable/ptz_default_set_selector"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:src="@color/color_grey" />
+
+    
+    <FrameLayout
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+
+     	<ListView
+            android:id="@+id/listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector="@drawable/listitem_pressed_selector"
+			/>
+
+        <TextView
+            android:id="@+id/no_video"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:text="@string/no_video"
+            android:textColor="@color/color_white"
+            android:textSize="24sp" 
+            android:visibility="gone"/>
+    </FrameLayout>
+    
+    <!-- <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:src="@color/color_grey" /> -->
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="16dp">
+	    <ProgressBar
+	        android:id="@+id/disk_capacity_info_pb"
+	        style="?android:attr/progressBarStyleHorizontal"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:progressDrawable="@color/custom_bg_selected_color"
+	        android:background="@color/color_top_bg"
+	        />
+	    <TextView
+            android:id="@+id/disk_capacity_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/color_black"
+            android:text="0M/0M"
+            />
+	</RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+	    >
+	    <TextView
+	        android:id="@+id/file_count_tv"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_alignParentLeft="true"
+	        android:layout_centerVertical="true"
+	        android:layout_gravity="center_vertical"
+	        android:textSize="18sp"
+	        android:textColor="@color/color_black"
+	        />
+	    <Button
+	        android:id="@+id/camviewer_pic_btn"
+	        android:layout_width="75dp"
+	        android:layout_height="fill_parent"
+			android:layout_toLeftOf="@+id/up_dir_btn"
+	        android:layout_centerVertical="true"
+	        android:text="@string/refresh" 
+	        android:textSize="18sp"
+	        android:textColor="@color/color_black"
+	    	android:background="@drawable/listitem_pressed_selector"
+	        />
+	    <Button
+	        android:id="@+id/up_dir_btn"
+	        android:layout_width="75dp"
+	        android:layout_height="fill_parent"
+	        android:layout_alignParentRight="true"
+	        android:layout_centerVertical="true"
+	        android:text="@string/back" 
+	        android:textSize="18sp"
+	        android:textColor="@color/color_black"
+	    	android:background="@drawable/listitem_pressed_selector"
+	        />
+	    
+    </RelativeLayout>
+</LinearLayout>

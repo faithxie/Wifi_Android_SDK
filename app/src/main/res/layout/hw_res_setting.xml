@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/bg_style"
+    android:background="@drawable/background_light_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:gravity="center_vertical"
+        android:background="@color/color_top_bg"
+        >
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+
+        <TextView
+            android:id="@+id/hw_res_setting_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:text="@string/hw_res"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+
+		<!-- <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btnselector"
+            android:textColor="@color/color_white"
+            android:layout_marginRight="10dp"
+            android:visibility="gone"
+            android:text="@string/done"
+            android:textSize="@dimen/text_title_size" /> -->
+    </RelativeLayout>
+    
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/top"
+        android:layout_marginTop="10dp"
+        >
+		<LinearLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal">
+		    
+		    <LinearLayout
+			    android:layout_width="0dp"
+			    android:layout_height="wrap_content"
+			    android:orientation="vertical"
+			    android:layout_weight="1"
+			    android:layout_marginLeft="10dp"
+			    android:layout_marginRight="10dp"
+			    >
+			    <LinearLayout
+				    android:layout_width="match_parent"
+				    android:layout_height="40dp"
+				    android:orientation="horizontal"
+					>
+					<TextView
+				        android:layout_width="70dp"
+				        android:layout_height="wrap_content"
+				        android:textSize="16sp"
+				        android:textColor="@color/color_black"
+				        android:singleLine="true"
+				        android:text="@string/mode"
+				        />
+				    <freesbell.demo.client.ComboBox
+				        android:id="@+id/hw_res_mode_type"
+				        android:layout_width="0dp"
+				        android:layout_height="40dp"
+				        android:layout_weight="1"
+				        />
+				</LinearLayout>
+				<LinearLayout
+				    android:layout_width="match_parent"
+				    android:layout_height="40dp"
+				    android:orientation="horizontal"
+					>
+				    <TextView
+				        android:layout_width="70dp"
+				        android:layout_height="wrap_content"
+				        android:textSize="16sp"
+				        android:textColor="@color/color_black"
+				        android:singleLine="true"
+				        android:text="@string/value"
+				        />
+				    
+				    <EditText
+				        android:id="@+id/hw_res_value"
+				        android:layout_width="0dp"
+				        android:layout_height="40dp"
+				        android:maxLength="128"
+				        android:textColor="@color/color_black" 
+				        android:background="@drawable/edit_bg"
+				        android:layout_weight="1"
+				        >
+				        <requestFocus />
+				    </EditText>
+				 </LinearLayout>
+				 <LinearLayout
+				    android:layout_width="match_parent"
+				    android:layout_height="40dp"
+				    android:orientation="horizontal"
+					>
+				    <TextView
+				        android:layout_width="70dp"
+				        android:layout_height="wrap_content"
+				        android:textSize="16sp"
+				        android:textColor="@color/color_black"
+				        android:singleLine="true"
+				        android:text="@string/trigger"
+				        />
+				    <freesbell.demo.client.ComboBox
+				        android:id="@+id/hw_res_trigger_mode"
+				        android:layout_width="0dp"
+				        android:layout_height="40dp"
+				        android:layout_weight="1"
+				        />
+				 </LinearLayout>
+				 <LinearLayout
+				    android:layout_width="match_parent"
+				    android:layout_height="40dp"
+				    android:orientation="horizontal"
+					>
+				    <TextView
+				        android:layout_width="70dp"
+				        android:layout_height="wrap_content"
+				        android:textSize="16sp"
+				        android:textColor="@color/color_black"
+				        android:singleLine="true"
+				        android:text="@string/gate_value"
+				        />
+				    
+				    <EditText
+				        android:id="@+id/hw_res_gate_value"
+				        android:layout_width="0dp"
+				        android:layout_height="40dp"
+				        android:maxLength="128"
+				        android:textColor="@color/color_black" 
+				        android:background="@drawable/edit_bg"
+				        android:layout_weight="1"
+				        >
+				        <requestFocus />
+				    </EditText>
+				 </LinearLayout>
+			</LinearLayout>
+			
+		    <Button
+				android:id="@+id/btn_save"
+				android:layout_width="70dp"
+				android:layout_height="40dp"
+				android:layout_gravity="center_vertical"
+				android:background="@drawable/btnselector"
+				android:textColor="@color/color_black"
+				android:layout_marginRight="10dp"
+				android:text="@string/setting_save_configuration"
+				android:textSize="@dimen/text_title_size" />
+		</LinearLayout>
+	</ScrollView>
+</RelativeLayout>

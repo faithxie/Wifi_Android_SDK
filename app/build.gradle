@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "freesbell.demo.client"
+        minSdkVersion 14
+        targetSdkVersion 14
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.google.code.gson:gson:2.2.1'
+    compile files('libs/android-json-rpc.jar')
+    compile files('libs/badgeview.jar')
+    compile files('libs/ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/pinyin4j-2.5.0.jar')
+    compile files('libs/simpleconfiglib.jar')
+    compile files('libs/systembartint-1.0.4.jar')
+    compile files('libs/voiceRecog.jar')
+}

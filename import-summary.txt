@@ -1,0 +1,87 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* LiveStreamVideoView.java.patch
+* modify_patch.patch
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+gson-2.2.1.jar => com.google.code.gson:gson:2.2.1
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.1.jar => version 2.2.1 in com.google.code.gson:gson:2.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* arrowdown.PNG => arrowdown.png
+* back_pic.PNG => back_pic.png
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\android-json-rpc.jar => app\libs\android-json-rpc.jar
+* libs\armeabi-v7a\libfzp2p.so => app\src\main\jniLibs\armeabi-v7a\libfzp2p.so
+* libs\armeabi-v7a\libsimpleconfiglib.so => app\src\main\jniLibs\armeabi-v7a\libsimpleconfiglib.so
+* libs\armeabi-v7a\libvoiceRecog.so => app\src\main\jniLibs\armeabi-v7a\libvoiceRecog.so
+* libs\armeabi\libfzp2p.so => app\src\main\jniLibs\armeabi\libfzp2p.so
+* libs\armeabi\libsimpleconfiglib.so => app\src\main\jniLibs\armeabi\libsimpleconfiglib.so
+* libs\armeabi\libvoiceRecog.so => app\src\main\jniLibs\armeabi\libvoiceRecog.so
+* libs\badgeview.jar => app\libs\badgeview.jar
+* libs\ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar => app\libs\ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar
+* libs\mips\libfzp2p.so => app\src\main\jniLibs\mips\libfzp2p.so
+* libs\mips\libsimpleconfiglib.so => app\src\main\jniLibs\mips\libsimpleconfiglib.so
+* libs\mips\libvoiceRecog.so => app\src\main\jniLibs\mips\libvoiceRecog.so
+* libs\nineoldandroids-2.4.0.jar => app\libs\nineoldandroids-2.4.0.jar
+* libs\pinyin4j-2.5.0.jar => app\libs\pinyin4j-2.5.0.jar
+* libs\simpleconfiglib.jar => app\libs\simpleconfiglib.jar
+* libs\systembartint-1.0.4.jar => app\libs\systembartint-1.0.4.jar
+* libs\voiceRecog.jar => app\libs\voiceRecog.jar
+* libs\x86\libfzp2p.so => app\src\main\jniLibs\x86\libfzp2p.so
+* libs\x86\libsimpleconfiglib.so => app\src\main\jniLibs\x86\libsimpleconfiglib.so
+* libs\x86\libvoiceRecog.so => app\src\main\jniLibs\x86\libvoiceRecog.so
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* icon_gpio.JPG => icon_gpio.jpg
+* icon_motion.JPG => icon_motion.jpg
+* icon_rec.PNG => icon_rec.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

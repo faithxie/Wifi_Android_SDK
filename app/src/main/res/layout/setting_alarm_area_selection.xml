@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/bg_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_light_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        style="@style/top_bg_style"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:gravity="center_vertical" >
+
+        <ImageButton
+            android:id="@+id/alerm_cancel"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+
+        <TextView
+            android:id="@+id/tv_camera_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:text="@string/alerm_setting"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+        
+        <Button
+            android:id="@+id/alerm_ok"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btnselector"
+            android:text="@string/done"
+            android:textColor="@color/color_white"
+            android:textSize="@dimen/text_title_size" />
+    </RelativeLayout>
+
+	
+	<freesbell.demo.utils.AlarmSelectionView
+	    android:id="@+id/alarm_selection_view_id"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@+id/top"
+        android:src="@color/color_grey" />
+
+	<ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/alarm_selection_view_id" >
+        
+	    <RelativeLayout
+	        android:id="@+id/alarm_area_setting_layout"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_vertical" >
+		    <LinearLayout
+		        android:id="@+id/alarm_area_op_lay"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentTop="true"
+	            android:layout_margin="10dp"
+	            android:orientation="horizontal"
+	            >
+	            <Button
+			        android:id="@+id/setting_area_enable"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="@string/alarm_area_setting_start"
+			        />
+	            <Button
+			        android:id="@+id/setting_area_clear"
+			        android:layout_width="0dp"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="1"
+			        android:text="@string/alarm_area_setting_clear"
+			        />
+	            
+	            <!-- <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_vertical"
+		            android:layout_marginLeft="10.0dip"
+		            android:text="@string/alarm_area_channel"
+		            android:textColor="@color/color_black"
+		            android:textSize="18.0sp"
+		            android:textStyle="bold" />
+	            <com.homeviewer.client.ComboBox
+			        android:id="@+id/alarm_area_channel"
+			        android:layout_width="0dp"
+			        android:layout_height="40dp"
+			        android:layout_weight="1"
+			        /> -->
+	        </LinearLayout>
+	        
+		    <LinearLayout
+		        android:id="@+id/alarm_detector_sensi_lay"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@+id/alarm_area_op_lay"
+	            android:layout_margin="10dp"
+	            android:orientation="horizontal"
+	            >
+	            <TextView
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_vertical"
+		            android:layout_marginLeft="10.0dip"
+		            android:text="@string/alerm_detector_sensitivity"
+		            android:textColor="@color/color_black"
+		            android:textSize="18.0sp"
+		            android:textStyle="bold" />
+	            <freesbell.demo.client.ComboBox
+			        android:id="@+id/alarm_detector_sensitivity"
+			        android:layout_width="0dp"
+			        android:layout_height="40dp"
+			        android:layout_weight="1"
+			        />
+	        </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

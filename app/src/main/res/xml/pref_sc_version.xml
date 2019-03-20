@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:maxLines="1"
+        android:singleLine="true"
+        android:selectable="false"
+        android:title="@string/app_version" />
+
+</PreferenceScreen>

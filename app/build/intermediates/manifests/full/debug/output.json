@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":25,"versionName":"@string/softversion","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"freesbell.demo.client","split":"","minSdkVersion":"14"}}]

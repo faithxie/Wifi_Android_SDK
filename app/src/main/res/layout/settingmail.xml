@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/bg_style"
+    android:background="@drawable/background_light_back"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        style="@style/top_bg_style"
+        android:layout_width="fill_parent"
+        android:gravity="center_vertical"
+        android:layout_height="50.0dip" >
+		<!-- <Button
+            android:id="@+id/mail_cancel"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/color_white"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_back_selector"
+            android:text="@string/back"
+            android:textSize="@dimen/text_title_size" /> -->
+		<ImageButton
+            android:id="@+id/mail_cancel"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ptz_default_set_selector"
+            android:src="@drawable/btn_back"/>
+        <TextView
+            android:id="@+id/tv_camera_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10.0dip"
+            android:shadowColor="@color/color_shadow"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:text="@string/setting_mail"
+            android:textColor="@color/color_white"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+   <!-- </LinearLayout> -->
+
+<!--     <ImageView -->
+<!--         android:id="@+id/line1" -->
+<!--         android:layout_width="fill_parent" -->
+<!--         android:layout_height="2.0dip" -->
+<!--         android:layout_below="@+id/top" -->
+<!--         android:src="@drawable/background_separate_vertical" /> -->
+
+  <!--  <LinearLayout
+        android:id="@+id/bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="60.0dip"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/background_silver"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >  -->
+
+<!--         <ImageView -->
+<!--             android:layout_width="fill_parent" -->
+<!--             android:layout_height="2.0dip" -->
+<!--             android:src="@drawable/background_separate_vertical" /> -->
+
+     <!--   <LinearLayout
+            style="@style/top_bg_style"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical" >
+
+        <Button
+            android:id="@+id/mail_ok"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_weight="1.0"
+            android:background="@drawable/btnselector"
+            android:textColor="@color/color_white"
+            android:layout_marginRight="10dp"
+            android:text="@string/done"
+            android:textSize="@dimen/text_title_size" />
+    </RelativeLayout>
+    </LinearLayout> -->
+ 		<Button
+            android:id="@+id/mail_ok"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_weight="1.0"
+            android:background="@drawable/btnselector"
+            android:textColor="@color/color_white"
+            android:layout_marginRight="10dp"
+            android:text="@string/done"
+            android:textSize="@dimen/text_title_size" />
+    </RelativeLayout>
+<!--  android:layout_above="@+id/bottom" -->
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+      
+        android:layout_below="@+id/top"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:background="@drawable/background_light_itemlist"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_sender"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_sender"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_sender"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                        android:inputType="textEmailAddress"
+                         >
+                    </EditText>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                
+				<LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_title"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_title"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                         >
+                    </EditText>
+                </LinearLayout>
+                
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_content"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_content"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_content"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                         >
+                    </EditText>
+                </LinearLayout>
+                
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_smtp_server"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_smtp_server"
+                        android:textColor="@color/color_black" />
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_bg"
+                        android:paddingRight="5dp" >
+
+                        <EditText
+                            android:id="@+id/mail_edit_smtp_server"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:maxLength="64"
+                            android:background="#00000000"
+                            android:inputType="textEmailAddress" >
+                        </EditText>
+
+                        <ImageButton
+                            android:id="@+id/mail_img_smtp_down"
+                            android:layout_width="50dp"
+                            android:layout_height="25dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/rightdown_selector" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_smtp_port"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_smtp_port"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_smtp_port"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="5"
+                        android:background="@drawable/edit_bg"
+                        android:inputType="number" >
+                    </EditText>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+
+                <RelativeLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_check"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_check"
+                        android:textColor="@color/color_black" />
+
+                    <CheckBox
+                        android:id="@+id/mail_cbx_check"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_ssl"
+                        android:textColor="@color/color_black" />
+  				 <LinearLayout
+                        android:id="@+id/linearLayout3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_bg"
+                        android:paddingRight="5dp" >
+
+                        <EditText
+                            android:id="@+id/mail_edit_ssl"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:editable="false"
+                            android:focusable="false"
+                            android:layout_weight="1"
+                            android:background="#00000000"
+                            android:inputType="textEmailAddress" >
+                        </EditText>
+
+                        <ImageButton
+                            android:id="@+id/mail_img_ssl_down"
+                            android:layout_width="50dp"
+                            android:layout_height="25dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/rightdown_selector" />
+                    </LinearLayout>
+                    
+				
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+
+                <LinearLayout
+                    android:id="@+id/mail_check_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="10dp" >
+
+                        <TextView
+                            android:id="@+id/mail_tv_smtp_user"
+                            android:layout_width="80dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:gravity="left"
+                            android:text="@string/mail_smtp_user"
+                            android:textColor="@color/color_black" />
+
+                        <EditText
+                            android:id="@+id/mail_edit_smtp_user"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:maxLength="64"
+                            android:background="@drawable/edit_bg"
+                           >
+                        </EditText>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:src="@color/color_grey" />
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="10dp" >
+
+                        <TextView
+                            android:id="@+id/mail_tv_smtp_pwd"
+                            android:layout_width="80dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:gravity="left"
+                            android:text="@string/mail_smtp_pwd"
+                            android:textColor="@color/color_black" />
+
+                        <EditText
+                            android:id="@+id/mail_edit_smtp_pwd"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:maxLength="64"
+                            android:background="@drawable/edit_bg"
+                            android:inputType="textPassword" >
+                        </EditText>
+                    </LinearLayout>
+                    
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey" />
+                        
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/mail_tv_receiver1"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_receiver1"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_receiver1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                        android:inputType="textEmailAddress" >
+                    </EditText>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey"
+                    android:visibility="gone"/>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/mail_tv_receiver2"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_receiver2"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_receiver2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                        android:inputType="textEmailAddress" >
+                    </EditText>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey"
+                    android:visibility="gone"/>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/mail_tv_receiver3"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_receiver3"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_receiver3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                        android:inputType="textEmailAddress" >
+                    </EditText>
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@color/color_grey"
+                    android:visibility="gone"/>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/mail_tv_receiver4"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:gravity="left"
+                        android:text="@string/mail_receiver4"
+                        android:textColor="@color/color_black" />
+
+                    <EditText
+                        android:id="@+id/mail_edit_receiver4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:maxLength="64"
+                        android:background="@drawable/edit_bg"
+                        android:inputType="textEmailAddress" >
+                    </EditText>
+                </LinearLayout>
+
+<!--                 <ImageView -->
+<!--                     android:id="@+id/imageView1" -->
+<!--                     android:layout_width="match_parent" -->
+<!--                     android:layout_height="1dp" -->
+<!--                     android:layout_marginLeft="5dp" -->
+<!--                     android:layout_marginRight="5dp" -->
+<!--                     android:src="@color/color_grey" /> -->
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
